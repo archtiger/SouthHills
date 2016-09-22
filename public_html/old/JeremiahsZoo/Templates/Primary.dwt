@@ -1,0 +1,62 @@
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>zooDesign</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../Styles.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content="Zoo">
+<meta name="description" content="Jeremiah's Wild Zoo specializes in unique exoctic wild animals located in Apalachian Mountains">
+<meta name="keywords" content="Zoo,White Tiger, Jeremiah's Wild Zoo, Gladiator Pit, Human Sacrifices">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (zooDesign.psd) -->
+<table id="Table_01" width="1024" height="759" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<img src="../images/zooDesign_01.jpg" width="1024" height="140" alt=""></td>
+	</tr>
+	<tr>
+    <td height="617" valign="top">
+			<img src="../images/zooDesign_04.jpg" alt="" width="202" height="617" usemap="#Map" border="0"></td>
+	  
+			
+			
+		<td rowspan="2" align="left" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="EditRegion" -->EditRegion
+        <table width="800" align="center">
+			  <tr>
+			    <td valign="top"><h1>Heading One</h1></td>
+			    <td>&nbsp;</td>
+		      </tr>
+			  <tr>
+			    <td><h2>Heading Two</h2></td>
+			    <td>&nbsp;</td>
+		      </tr>
+			  <tr>
+			    <td><p>Paragraph</p></td>
+			    <td>&nbsp;</td>
+		      </tr>
+		  </table><!-- TemplateEndEditable -->
+        </td>
+        
+            
+  </tr>
+	
+		
+	
+</table>
+<!-- End Save for Web Slices -->
+
+<map name="Map">
+  <area shape="rect" coords="4,-1,195,82" href="../index.html">
+  <area shape="rect" coords="2,81,195,167" href="../learn.html">
+  <area shape="rect" coords="2,172,194,258" href="../visit.html">
+  <area shape="rect" coords="2,269,195,345" href="../donate.html">
+  <area shape="rect" coords="3,352,191,437" href="../getInvolved.html">
+  <area shape="rect" coords="3,439,192,519" href="../shop.html">
+  <area shape="rect" coords="1,532,194,612" href="../membership.html">
+</map>
+</body>
+</html>
