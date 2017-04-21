@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeremiah\documents\visual studio 2015\projects\classes\finalcommandline\source.cpp(244): warning C4018: '<': signed/unsigned mismatch
+  finalCommandLine.vcxproj -> C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\Classes\Debug\finalCommandLine.exe
+  finalCommandLine.vcxproj -> C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\Classes\Debug\finalCommandLine.pdb (Full PDB)
