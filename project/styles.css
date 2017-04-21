@@ -1,0 +1,40 @@
+span{
+	font-style:italic;
+}
+
+.subHeader{
+	font-weight:bold;
+	background-color:yellow;
+}
+
+.hover{
+	font-style:italic;
+	background-color:red;
+}
+
+.border{
+	border-width:1px;
+	border-style:outset;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+
+.borderV2{
+	border-width:3px;
+	border-style:outset;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+
+.italic{
+	font-style:italic;
+}
+
+.right{
+	float:right;
+	width:250px;
+}
